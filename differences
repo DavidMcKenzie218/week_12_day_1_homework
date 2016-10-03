@@ -1,0 +1,9 @@
+models (film, films, review) are in the src/models folder rather than in public.
+
+ui is in the src/ui folder.
+
+Html is in a client/build folder.
+
+only src tag is build.js ?
+
+require is now back
